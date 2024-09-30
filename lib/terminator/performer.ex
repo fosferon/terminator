@@ -1,7 +1,3 @@
-defmodule Post do
-  defstruct name: "john"
-end
-
 defmodule Terminator.Performer do
   @moduledoc """
   Performer is a main actor for determining abilities
